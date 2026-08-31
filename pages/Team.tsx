@@ -2,6 +2,7 @@ import React, { useMemo } from 'react';
 import { useImages } from '../hooks/useImages';
 import mariaImg from '../images/staff/Maria Trinidad Lopez close.webp';
 import carlosImg from '../images/staff/Carlos Navarro close.webp';
+import pamelaImg from '../images/staff/Pamela Navarro close.webp';
 import constanzaImg from '../images/staff/CONSTANZA DEL CARMEN GUADALUPE CERRA close.webp';
 import ximenaImg from '../images/staff/XIMENA ROSSANA LARENAS MONDACA close.webp';
 import lauraImg from '../images/staff/LAURA JAVIERA MOLINARI TRONCOSO close.webp';
@@ -45,7 +46,8 @@ const Team: React.FC = () => {
             name: 'Pamela Alicia Navarro López',
             role: 'Jefa UTP',
             title: 'Titulada en Educación Básica',
-            desc: '"Buscamos la mejora continua a través de estrategias innovadoras."'
+            desc: '"Buscamos la mejora continua a través de estrategias innovadoras."',
+            image: pamelaImg
         },
         {
             name: 'Constanza del Carmen Guadalupe Cerra',
