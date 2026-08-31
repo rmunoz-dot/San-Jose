@@ -73,7 +73,6 @@ const Team: React.FC = () => {
         { name: 'Rubén Iván Muñoz Badilla', role: 'Administrador', title: 'Ingeniero Ejecución', image: rubenImg },
         { name: 'Gabriela Andrea Cifuentes Véliz', role: 'Inspector/a / Secretario/a', title: 'Secretariado', image: gabrielaImg },
         { name: 'Germán Fernando Nicolás Muñoz Navarro', role: 'Asistente Administrativo', title: '', image: germanImg },
-        { name: 'Carmen Rebeca de la Paz Granifo Acevedo', role: 'Psicólogo/a', title: 'Psicólogo' },
         { name: 'Pamela Eugenia Morales Henríquez', role: 'Psicólogo/a', title: 'Psicólogo' },
         { name: 'Francisca Mariela Carvajal Baeza', role: 'Fonoaudiólogo/a', title: 'Fonoaudiólogo', image: franciscaImg },
         { name: 'Regina Isabel González Valenzuela', role: '', title: '' },
